@@ -1,1 +1,8 @@
 VegetableImages/
+testOutputs/
+
+*.jpg
+mlruns
+test_visualizations
+training_logs
+*.h5
