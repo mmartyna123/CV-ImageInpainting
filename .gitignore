@@ -6,3 +6,6 @@ mlruns
 test_visualizations
 training_logs
 *.h5
+*.zip
+logs/
+tensorboard/
