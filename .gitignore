@@ -12,3 +12,4 @@ tensorboard/
 
 *.png
 *.txt
+/Data
