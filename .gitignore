@@ -9,3 +9,6 @@ training_logs
 *.zip
 logs/
 tensorboard/
+
+*.png
+*.txt
