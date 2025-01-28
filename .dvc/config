@@ -1,4 +1,4 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = gdrive://1EBCaeigRrkkNWmSHfBtHaZwY6Baowa6V/DVC-inpainting
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://dvc-inpainting/
