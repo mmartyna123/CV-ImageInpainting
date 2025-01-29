@@ -14,3 +14,4 @@ tensorboard/
 *.txt
 /safe-data
 /Data
+/model_8.pth
