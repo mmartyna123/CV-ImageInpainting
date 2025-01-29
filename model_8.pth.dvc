@@ -1,0 +1,5 @@
+outs:
+- md5: 5ccbcfacfabd5ccaf78656432beda04b
+  size: 6202779
+  hash: md5
+  path: model_8.pth
