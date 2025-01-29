@@ -20,3 +20,13 @@ tensorboard/
 /model_3.pth
 /model_4.pth
 /model_5.pth
+
+!AutoencoderDiagram.png
+!AutoencoderSkipFullDiagram.png
+!AutoencoderSkipSimDiagram.png
+!DiscriminatorDiagram.png
+!GeneratorFullDiagram.png
+!GeneratorSimDiagram.png
+!hyperparameterTuningResults.png
+runs
+!requirements.txt
