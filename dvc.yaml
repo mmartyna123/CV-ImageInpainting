@@ -1,11 +1,26 @@
 params:
 - dvclive/params.yaml
+artifacts:
+  model_8:
+    path: model_8.pth
+    type: model
+  model_1:
+    path: model_1.pth
+    type: model
+  model_2:
+    path: model_2.pth
+    type: model
+  model_3:
+    path: model_3.pth
+    type: model
+  model_4:
+    path: model_4.pth
+    type: model
+  model_5:
+    path: model_5.pth
+    type: model
 metrics:
 - dvclive/metrics.json
 plots:
 - dvclive/plots/metrics:
     x: step
-artifacts:
-  model_8:
-    path: model_8.pth
-    type: model

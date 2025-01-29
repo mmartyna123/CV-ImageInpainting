@@ -1,4 +1,5 @@
 Learning Rate: 0.001
 Batch Size: 64
-Dataset Size: 1008
+Dataset Size: 1120
 Loss Function: Masked MSE Loss
+Fold: 5
