@@ -5,3 +5,7 @@ metrics:
 plots:
 - dvclive/plots/metrics:
     x: step
+artifacts:
+  model_8:
+    path: model_8.pth
+    type: model
