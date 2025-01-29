@@ -1,6 +1,6 @@
 outs:
-- md5: d751713988987e9331980363e24189ce.dir
-  size: 0
-  nfiles: 0
+- md5: 6e12e4cbf479794e0f0ee7226c4c0140.dir
+  size: 85976451
+  nfiles: 5733
   hash: md5
   path: safe-data
