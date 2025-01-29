@@ -13,3 +13,4 @@ tensorboard/
 *.png
 *.txt
 /Data
+/safe-data
