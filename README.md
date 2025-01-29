@@ -27,7 +27,7 @@ Additionally, we collected **567 images** of beans from the internet for **evalu
 - Decoder **upsamples and reconstructs** the missing region.
 - Uses **Sigmoid activation** to keep pixel values in <0,1>.
 
-
+![Image](https://github.com/user-attachments/assets/e021bba6-2d04-4812-9067-299c9f9e6175)
 ---
 
 ### 2️⃣ **Autoencoder with Skip Connections**
